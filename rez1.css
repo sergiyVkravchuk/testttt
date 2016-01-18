@@ -1,0 +1,204 @@
+.penel{
+    margin-top: 10px;
+	
+}
+
+.profile{
+    width: 50%;
+    margin: 0 auto;
+    overflow: hidden;
+    background-color: #e1e8eb;
+}
+.profpic{
+    float: left;
+}
+.proftext{
+    margin-left: 150px;
+    float: left;
+    margin-top: 80px;
+}
+.name1{
+    font-size: 100px;
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 175px;
+}
+.name12{
+    color: #24333e;
+}
+.name22{
+    font-weight: 600;
+    color: #24333e;
+}
+.proff{
+    padding: 90px 0px;
+}
+.proffes{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 80px;
+    color: #969ea3;
+}
+.inf{
+    margin-left: 40px;
+    float: left;
+}
+.mail1{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 36px;
+    text-decoration: none;
+    color: #969ea3;
+    margin-left: 15px;
+  }
+  a{
+    float: left;
+  }
+.telephone{
+    margin-left: 60px;
+    float: left;
+      
+  }
+.resum{
+    margin-right: 100px;
+    float: right;
+}
+.mprof{
+    position: absolute;
+    color: #f5f7f7;
+    font-size: 70px;
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 580px;
+    margin-left: 75px;
+}
+.mprof p{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.exp{
+    width: 50%;
+    margin: 0 auto;
+    overflow: hidden;
+    background-color: #dce5ea;
+}
+.experiance{
+    float:left;
+}
+.edu{
+    width: 50%;
+    margin: 0 auto;
+    overflow: hidden;
+    background-color: #e7edec;
+}
+.education{
+    float: left;
+}
+.skl{
+    width: 50%;
+    margin: 0 auto;
+    overflow: hidden;
+    background-color: #edede8;
+}
+.skills{
+    float: left;
+}
+.resumm{
+    position: absolute;
+    color: #f5f7f7;
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 135px;
+    transform: rotate(270deg);
+    
+     
+}
+.resumm p{
+   font-size: 70px;
+   margin: 0 auto;
+   margin-bottom: 25%;
+   margin-top: -10%;
+}
+.abmee{
+   width: 1792px;
+   border-top: 2px solid #c6d5de;
+   border-bottom: 2px solid #c6d5de;
+   margin-left: 150px;
+   float:left;
+   margin-top:40px;
+}
+.fcb{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 36px;
+    text-decoration: none;
+    color: #969ea3;
+    margin-left: 15px;
+    margin-top: 10px;
+}
+.tw{
+    margin-left:300px;
+    float: left;
+}
+.firstw{
+    margin-top: 50px;
+    width: 1792px;
+    margin-left: 150px;
+    float:left;
+    overflow: hidden;
+}
+.fwork{
+    float: left;
+    width: 792px;
+}
+.fw1 h{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 55px;
+    text-decoration: none;
+    color: #24333e;
+}
+.fw1 p{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 40px;
+    text-decoration: none;
+    color: #969ea3;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    text-align: justify;
+}
+.fwork2{
+    float: left;
+    margin-left: 100px;
+    width:900px;
+}
+.fskill{
+    float: left;
+    width: 392px;
+}
+.fskill2{
+    float: left;
+    margin-left: 200px;
+    width: 1200px;
+    height: 132px;
+    background: linear-gradient(to right,#335f7a 70%,#e1e8eb); 
+}
+.fskill3{
+    float: left;
+    margin-left: 200px;
+    width: 1200px;
+    height: 132px;
+    background: linear-gradient(to right,#4f80a2 80%,#dce5ea);
+    
+}
+.fskill4{
+    float: left;
+    margin-left: 200px;
+    width: 1200px;
+    height: 132px;
+    background: linear-gradient(to right,#96b3b0 60%,#e7edec);
+}
+.fskill5{
+    float: left;
+    margin-left: 200px;
+    width: 1200px;
+    height: 132px;
+    background: linear-gradient(to right,#bfb28f 70%,#edede8);
+}
+.profill{
+    width: 25%;
+    height: auto;
+}
